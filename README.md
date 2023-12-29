@@ -1,4 +1,6 @@
 # Mini Drawing Project Readme
+![image](https://github.com/KalpanaMamnani/CanvasProject/assets/37242267/45a344a8-46bc-407b-af89-608922f44dc9)
+
 
 ## Description
 This JavaScript project is a mini drawing application that allows users to draw on an HTML canvas element. Users can customize the pen color and width, save their drawings as images, and clear the canvas when needed.
